@@ -78,5 +78,8 @@ This project successfully demonstrates how sentiment analysis can be performed u
 
 OUTPUT
 
+<img width="539" height="455" alt="Image" src="https://github.com/user-attachments/assets/9af713a9-bac7-495f-9900-2104623d7466" />
+
+
 <img width="901" height="337" alt="Image" src="https://github.com/user-attachments/assets/36a701b1-e523-4780-bc86-1bc82d98cdad" />
 

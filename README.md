@@ -75,3 +75,8 @@ Additionally, bar charts were plotted to visualize the distribution of positive 
 Conclusion:
 
 This project successfully demonstrates how sentiment analysis can be performed using NLP techniques. By applying text preprocessing, TF-IDF vectorization, and Logistic Regression, the model effectively classifies customer reviews as positive or negative. The Jupyter Notebook includes preprocessing, modeling, evaluation, and visualization, fulfilling all requirements.
+
+OUTPUT
+
+<img width="901" height="337" alt="Image" src="https://github.com/user-attachments/assets/36a701b1-e523-4780-bc86-1bc82d98cdad" />
+
